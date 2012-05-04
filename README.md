@@ -1,4 +1,4 @@
-minit
+Peg
 =====
 
 Minimal Project Initialization Tool
